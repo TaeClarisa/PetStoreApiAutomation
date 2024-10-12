@@ -32,8 +32,6 @@ public class TestSuite {
                 .build();
     }
 
-
-
     /*create a complete request body as Pojo Class*/
     @Test
     public void addingNewPet(){
